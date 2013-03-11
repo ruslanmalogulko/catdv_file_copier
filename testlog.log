@@ -1,0 +1,657 @@
+2013-03-04 14:34:23.91 INFO in 'file_copier' at 	line 23: 
+
+
+     **************************************************
+2013-03-04 14:34:23.91 INFO in 'file_copier' at 	line 25: 2013-03-04 14:34:23.091869
+2013-03-04 14:34:23.91 INFO in 'file_copier' at 	line 27: ---Start log---
+2013-03-04 14:34:23.91 INFO in 'file_copier' at 	line 37: ---End log at 2013-03-04 14:34:23.091981---
+
+2013-03-04 14:34:23.92 INFO in 'file_copier' at 	line 38: 
+     **************************************************
+2013-03-04 14:34:44.434 INFO in 'file_copier' at 	line 23: 
+
+
+     **************************************************
+2013-03-04 14:34:44.435 INFO in 'file_copier' at 	line 25: 2013-03-04 14:34:44.435097
+2013-03-04 14:34:44.435 INFO in 'file_copier' at 	line 27: ---Start log---
+2013-03-04 14:34:44.435 INFO in 'file_copier' at 	line 37: ---End log at 2013-03-04 14:34:44.435214---
+
+2013-03-04 14:34:44.435 INFO in 'file_copier' at 	line 38: 
+     **************************************************
+2013-03-04 14:45:04.427 INFO in 'file_copier' at 	line 23: 
+
+
+     **************************************************
+2013-03-04 14:45:04.427 INFO in 'file_copier' at 	line 25: 2013-03-04 14:45:04.427367
+2013-03-04 14:45:04.427 INFO in 'file_copier' at 	line 27: ---Start log---
+2013-03-04 14:46:42.876 INFO in 'file_copier' at 	line 23: 
+
+
+     **************************************************
+2013-03-04 14:46:42.876 INFO in 'file_copier' at 	line 25: 2013-03-04 14:46:42.876558
+2013-03-04 14:46:42.876 INFO in 'file_copier' at 	line 27: ---Start log---
+2013-03-04 14:54:03.43 INFO in 'file_copier' at 	line 23: 
+
+
+     **************************************************
+2013-03-04 14:54:03.43 INFO in 'file_copier' at 	line 25: 2013-03-04 14:54:03.043758
+2013-03-04 14:54:03.43 INFO in 'file_copier' at 	line 27: ---Start log---
+2013-03-04 14:54:53.228 INFO in 'file_copier' at 	line 23: 
+
+
+     **************************************************
+2013-03-04 14:54:53.228 INFO in 'file_copier' at 	line 25: 2013-03-04 14:54:53.228606
+2013-03-04 14:54:53.228 INFO in 'file_copier' at 	line 27: ---Start log---
+2013-03-04 14:54:53.228 ERROR in 'file_copier' at 	line 40: The number of argument seems doesn't proper: 1 items
+2013-03-04 14:54:53.228 INFO in 'file_copier' at 	line 47: ---End log at 2013-03-04 14:54:53.228826---
+
+2013-03-04 14:54:53.228 INFO in 'file_copier' at 	line 48: 
+     **************************************************
+2013-03-04 14:55:47.572 INFO in 'file_copier' at 	line 23: 
+
+
+     **************************************************
+2013-03-04 14:55:47.572 INFO in 'file_copier' at 	line 25: 2013-03-04 14:55:47.572454
+2013-03-04 14:55:47.572 INFO in 'file_copier' at 	line 27: ---Start log---
+2013-03-04 14:56:58.283 INFO in 'file_copier' at 	line 23: 
+
+
+     **************************************************
+2013-03-04 14:56:58.283 INFO in 'file_copier' at 	line 25: 2013-03-04 14:56:58.283768
+2013-03-04 14:56:58.283 INFO in 'file_copier' at 	line 27: ---Start log---
+2013-03-04 14:56:58.283 ERROR in 'file_copier' at 	line 40: The number of argument seems doesn't proper: 0 items
+2013-03-04 14:56:58.284 INFO in 'file_copier' at 	line 47: ---End log at 2013-03-04 14:56:58.283993---
+
+2013-03-04 14:56:58.284 INFO in 'file_copier' at 	line 48: 
+     **************************************************
+2013-03-04 15:12:57.411 INFO in 'file_copier' at 	line 23: 
+
+
+     **************************************************
+2013-03-04 15:12:57.411 INFO in 'file_copier' at 	line 25: 2013-03-04 15:12:57.411819
+2013-03-04 15:12:57.411 INFO in 'file_copier' at 	line 27: ---Start log---
+2013-03-04 15:12:57.411 INFO in 'file_copier' at 	line 34: There are one argument received.
+2013-03-04 15:12:57.412 INFO in 'file_copier' at 	line 36: And it is txt object.
+2013-03-04 15:12:57.412 INFO in 'file_copier' at 	line 57: ---End log at 2013-03-04 15:12:57.412155---
+
+2013-03-04 15:12:57.412 INFO in 'file_copier' at 	line 58: 
+     **************************************************
+2013-03-04 15:15:41.644 INFO in 'file_copier' at 	line 23: 
+
+
+     **************************************************
+2013-03-04 15:15:41.645 INFO in 'file_copier' at 	line 25: 2013-03-04 15:15:41.645109
+2013-03-04 15:15:41.645 INFO in 'file_copier' at 	line 27: ---Start log---
+2013-03-04 15:15:41.645 INFO in 'file_copier' at 	line 35: There are one argument received.
+2013-03-04 15:15:41.645 INFO in 'file_copier' at 	line 37: And it is txt object.
+2013-03-04 15:15:41.645 INFO in 'file_copier' at 	line 59: ---End log at 2013-03-04 15:15:41.645465---
+
+2013-03-04 15:15:41.645 INFO in 'file_copier' at 	line 60: 
+     **************************************************
+2013-03-04 15:16:39.428 INFO in 'file_copier' at 	line 23: 
+
+
+     **************************************************
+2013-03-04 15:16:39.428 INFO in 'file_copier' at 	line 25: 2013-03-04 15:16:39.428948
+2013-03-04 15:16:39.429 INFO in 'file_copier' at 	line 27: ---Start log---
+2013-03-04 15:16:39.429 INFO in 'file_copier' at 	line 35: There are one argument received.
+2013-03-04 15:16:39.429 INFO in 'file_copier' at 	line 37: And it is txt object.
+2013-03-04 15:16:39.429 INFO in 'file_copier' at 	line 59: ---End log at 2013-03-04 15:16:39.429296---
+
+2013-03-04 15:16:39.429 INFO in 'file_copier' at 	line 60: 
+     **************************************************
+2013-03-04 15:16:53.235 INFO in 'file_copier' at 	line 23: 
+
+
+     **************************************************
+2013-03-04 15:16:53.236 INFO in 'file_copier' at 	line 25: 2013-03-04 15:16:53.236069
+2013-03-04 15:16:53.236 INFO in 'file_copier' at 	line 27: ---Start log---
+2013-03-04 15:16:53.236 INFO in 'file_copier' at 	line 35: There are one argument received.
+2013-03-04 15:16:53.236 INFO in 'file_copier' at 	line 37: And it is txt object.
+2013-03-04 15:16:53.236 INFO in 'file_copier' at 	line 59: ---End log at 2013-03-04 15:16:53.236388---
+
+2013-03-04 15:16:53.236 INFO in 'file_copier' at 	line 60: 
+     **************************************************
+2013-03-04 15:17:36.860 INFO in 'file_copier' at 	line 23: 
+
+
+     **************************************************
+2013-03-04 15:17:36.860 INFO in 'file_copier' at 	line 25: 2013-03-04 15:17:36.860292
+2013-03-04 15:17:36.860 INFO in 'file_copier' at 	line 27: ---Start log---
+2013-03-04 15:17:36.860 INFO in 'file_copier' at 	line 35: There are one argument received.
+2013-03-04 15:17:36.860 INFO in 'file_copier' at 	line 37: And it is txt object.
+2013-03-04 15:17:36.860 INFO in 'file_copier' at 	line 59: ---End log at 2013-03-04 15:17:36.860616---
+
+2013-03-04 15:17:36.860 INFO in 'file_copier' at 	line 60: 
+     **************************************************
+2013-03-04 15:17:52.12 INFO in 'file_copier' at 	line 23: 
+
+
+     **************************************************
+2013-03-04 15:17:52.13 INFO in 'file_copier' at 	line 25: 2013-03-04 15:17:52.013087
+2013-03-04 15:17:52.13 INFO in 'file_copier' at 	line 27: ---Start log---
+2013-03-04 15:17:52.13 INFO in 'file_copier' at 	line 35: There are one argument received.
+2013-03-04 15:17:52.13 INFO in 'file_copier' at 	line 37: And it is txt object.
+2013-03-04 15:17:52.13 INFO in 'file_copier' at 	line 59: ---End log at 2013-03-04 15:17:52.013454---
+
+2013-03-04 15:17:52.13 INFO in 'file_copier' at 	line 60: 
+     **************************************************
+2013-03-04 15:18:49.660 INFO in 'file_copier' at 	line 23: 
+
+
+     **************************************************
+2013-03-04 15:18:49.660 INFO in 'file_copier' at 	line 25: 2013-03-04 15:18:49.660277
+2013-03-04 15:18:49.660 INFO in 'file_copier' at 	line 27: ---Start log---
+2013-03-04 15:18:49.660 INFO in 'file_copier' at 	line 35: There are one argument received.
+2013-03-04 15:18:49.660 INFO in 'file_copier' at 	line 37: And it is txt object.
+2013-03-04 15:18:49.660 INFO in 'file_copier' at 	line 59: ---End log at 2013-03-04 15:18:49.660591---
+
+2013-03-04 15:18:49.660 INFO in 'file_copier' at 	line 60: 
+     **************************************************
+2013-03-04 15:18:53.532 INFO in 'file_copier' at 	line 23: 
+
+
+     **************************************************
+2013-03-04 15:18:53.533 INFO in 'file_copier' at 	line 25: 2013-03-04 15:18:53.533029
+2013-03-04 15:18:53.533 INFO in 'file_copier' at 	line 27: ---Start log---
+2013-03-04 15:18:53.533 INFO in 'file_copier' at 	line 35: There are one argument received.
+2013-03-04 15:18:53.533 INFO in 'file_copier' at 	line 37: And it is txt object.
+2013-03-04 15:18:53.533 INFO in 'file_copier' at 	line 59: ---End log at 2013-03-04 15:18:53.533351---
+
+2013-03-04 15:18:53.533 INFO in 'file_copier' at 	line 60: 
+     **************************************************
+2013-03-04 15:19:48.180 INFO in 'file_copier' at 	line 23: 
+
+
+     **************************************************
+2013-03-04 15:19:48.180 INFO in 'file_copier' at 	line 25: 2013-03-04 15:19:48.180257
+2013-03-04 15:19:48.180 INFO in 'file_copier' at 	line 27: ---Start log---
+2013-03-04 15:19:48.180 INFO in 'file_copier' at 	line 35: There are one argument received.
+2013-03-04 15:19:48.180 INFO in 'file_copier' at 	line 37: And it is txt object.
+2013-03-04 15:19:48.180 INFO in 'file_copier' at 	line 59: ---End log at 2013-03-04 15:19:48.180591---
+
+2013-03-04 15:19:48.180 INFO in 'file_copier' at 	line 60: 
+     **************************************************
+2013-03-04 15:20:52.869 INFO in 'file_copier' at 	line 23: 
+
+
+     **************************************************
+2013-03-04 15:20:52.869 INFO in 'file_copier' at 	line 25: 2013-03-04 15:20:52.869343
+2013-03-04 15:20:52.869 INFO in 'file_copier' at 	line 27: ---Start log---
+2013-03-04 15:20:52.869 INFO in 'file_copier' at 	line 35: There are one argument received.
+2013-03-04 15:20:52.869 INFO in 'file_copier' at 	line 37: And it is txt object.
+2013-03-04 15:20:52.869 INFO in 'file_copier' at 	line 60: ---End log at 2013-03-04 15:20:52.869645---
+
+2013-03-04 15:20:52.869 INFO in 'file_copier' at 	line 61: 
+     **************************************************
+2013-03-04 15:21:51.276 INFO in 'file_copier' at 	line 23: 
+
+
+     **************************************************
+2013-03-04 15:21:51.277 INFO in 'file_copier' at 	line 25: 2013-03-04 15:21:51.277093
+2013-03-04 15:21:51.277 INFO in 'file_copier' at 	line 27: ---Start log---
+2013-03-04 15:21:51.277 INFO in 'file_copier' at 	line 35: There are one argument received.
+2013-03-04 15:21:51.277 INFO in 'file_copier' at 	line 37: And it is txt object.
+2013-03-04 15:21:51.277 INFO in 'file_copier' at 	line 63: ---End log at 2013-03-04 15:21:51.277413---
+
+2013-03-04 15:21:51.277 INFO in 'file_copier' at 	line 64: 
+     **************************************************
+2013-03-04 15:23:47.836 INFO in 'file_copier' at 	line 23: 
+
+
+     **************************************************
+2013-03-04 15:23:47.836 INFO in 'file_copier' at 	line 25: 2013-03-04 15:23:47.836298
+2013-03-04 15:23:47.836 INFO in 'file_copier' at 	line 27: ---Start log---
+2013-03-04 15:23:47.836 INFO in 'file_copier' at 	line 45: There are one argument received.
+2013-03-04 15:23:47.836 INFO in 'file_copier' at 	line 47: And it is txt object.
+2013-03-04 15:23:47.836 INFO in 'file_copier' at 	line 66: ---End log at 2013-03-04 15:23:47.836643---
+
+2013-03-04 15:23:47.836 INFO in 'file_copier' at 	line 67: 
+     **************************************************
+2013-03-04 15:23:54.941 INFO in 'file_copier' at 	line 23: 
+
+
+     **************************************************
+2013-03-04 15:23:54.941 INFO in 'file_copier' at 	line 25: 2013-03-04 15:23:54.941311
+2013-03-04 15:23:54.941 INFO in 'file_copier' at 	line 27: ---Start log---
+2013-03-04 15:23:54.941 INFO in 'file_copier' at 	line 45: There are one argument received.
+2013-03-04 15:23:54.941 INFO in 'file_copier' at 	line 47: And it is txt object.
+2013-03-04 15:23:54.941 INFO in 'file_copier' at 	line 66: ---End log at 2013-03-04 15:23:54.941614---
+
+2013-03-04 15:23:54.941 INFO in 'file_copier' at 	line 67: 
+     **************************************************
+2013-03-04 15:24:12.300 INFO in 'file_copier' at 	line 23: 
+
+
+     **************************************************
+2013-03-04 15:24:12.300 INFO in 'file_copier' at 	line 25: 2013-03-04 15:24:12.300387
+2013-03-04 15:24:12.300 INFO in 'file_copier' at 	line 27: ---Start log---
+2013-03-04 15:24:12.300 INFO in 'file_copier' at 	line 45: There are one argument received.
+2013-03-04 15:24:12.300 INFO in 'file_copier' at 	line 47: And it is txt object.
+2013-03-04 15:24:12.300 INFO in 'file_copier' at 	line 66: ---End log at 2013-03-04 15:24:12.300773---
+
+2013-03-04 15:24:12.300 INFO in 'file_copier' at 	line 67: 
+     **************************************************
+2013-03-04 15:24:13.660 INFO in 'file_copier' at 	line 23: 
+
+
+     **************************************************
+2013-03-04 15:24:13.661 INFO in 'file_copier' at 	line 25: 2013-03-04 15:24:13.661190
+2013-03-04 15:24:13.661 INFO in 'file_copier' at 	line 27: ---Start log---
+2013-03-04 15:24:13.661 INFO in 'file_copier' at 	line 45: There are one argument received.
+2013-03-04 15:24:13.661 INFO in 'file_copier' at 	line 47: And it is txt object.
+2013-03-04 15:24:13.661 INFO in 'file_copier' at 	line 66: ---End log at 2013-03-04 15:24:13.661507---
+
+2013-03-04 15:24:13.661 INFO in 'file_copier' at 	line 67: 
+     **************************************************
+2013-03-04 15:26:11.484 INFO in 'file_copier' at 	line 23: 
+
+
+     **************************************************
+2013-03-04 15:26:11.484 INFO in 'file_copier' at 	line 25: 2013-03-04 15:26:11.484344
+2013-03-04 15:26:11.484 INFO in 'file_copier' at 	line 27: ---Start log---
+2013-03-04 15:26:11.484 INFO in 'file_copier' at 	line 57: There are one argument received.
+2013-03-04 15:26:11.484 INFO in 'file_copier' at 	line 59: And it is txt object.
+2013-03-04 15:26:11.484 INFO in 'file_copier' at 	line 71: ---End log at 2013-03-04 15:26:11.484676---
+
+2013-03-04 15:26:11.484 INFO in 'file_copier' at 	line 72: 
+     **************************************************
+2013-03-04 15:50:40.735 INFO in 'file_copier' at 	line 24: 
+
+
+     **************************************************
+2013-03-04 15:50:40.735 INFO in 'file_copier' at 	line 26: 2013-03-04 15:50:40.735234
+2013-03-04 15:50:40.735 INFO in 'file_copier' at 	line 28: ---Start log---
+2013-03-04 15:50:40.735 INFO in 'file_copier' at 	line 70: There are one argument received.
+2013-03-04 15:50:40.735 INFO in 'file_copier' at 	line 72: And it is txt object.
+2013-03-04 15:51:29.176 INFO in 'file_copier' at 	line 24: 
+
+
+     **************************************************
+2013-03-04 15:51:29.176 INFO in 'file_copier' at 	line 26: 2013-03-04 15:51:29.176333
+2013-03-04 15:51:29.176 INFO in 'file_copier' at 	line 28: ---Start log---
+2013-03-04 15:51:29.176 INFO in 'file_copier' at 	line 70: There are one argument received.
+2013-03-04 15:51:29.176 INFO in 'file_copier' at 	line 72: And it is txt object.
+2013-03-04 15:51:29.176 INFO in 'file_copier' at 	line 86: ---End log at 2013-03-04 15:51:29.176694---
+
+2013-03-04 15:51:29.176 INFO in 'file_copier' at 	line 87: 
+     **************************************************
+2013-03-04 15:56:00.487 INFO in 'file_copier' at 	line 24: 
+
+
+     **************************************************
+2013-03-04 15:56:00.487 INFO in 'file_copier' at 	line 26: 2013-03-04 15:56:00.487368
+2013-03-04 15:56:00.487 INFO in 'file_copier' at 	line 28: ---Start log---
+2013-03-04 15:56:00.487 INFO in 'file_copier' at 	line 72: There are one argument received.
+2013-03-04 15:56:00.487 INFO in 'file_copier' at 	line 74: And it is txt object.
+2013-03-04 15:56:00.487 INFO in 'file_copier' at 	line 43: Path list from txt: ['/home/russel/DEV/py/catdv_file_copier/filename.original.mov', '/home/russel/DEV/py/catdv_file_copier/filename1.original.mov', '/home/russel/DEV/py/catdv_file_copier/filename2.original.mov']
+2013-03-04 15:56:36.127 INFO in 'file_copier' at 	line 24: 
+
+
+     **************************************************
+2013-03-04 15:56:36.127 INFO in 'file_copier' at 	line 26: 2013-03-04 15:56:36.127926
+2013-03-04 15:56:36.128 INFO in 'file_copier' at 	line 28: ---Start log---
+2013-03-04 15:56:36.128 INFO in 'file_copier' at 	line 72: There are one argument received.
+2013-03-04 15:56:36.128 INFO in 'file_copier' at 	line 74: And it is txt object.
+2013-03-04 15:56:36.128 INFO in 'file_copier' at 	line 43: Path list from txt: ['/home/russel/DEV/py/catdv_file_copier/filename.original.mov', '/home/russel/DEV/py/catdv_file_copier/filename1.original.mov', '/home/russel/DEV/py/catdv_file_copier/filename2.original.mov']
+2013-03-04 15:56:36.128 INFO in 'file_copier' at 	line 60: The new path_list: /home/russel/DEV/py/catdv_file_copier/filename.mov 
+2013-03-04 15:56:36.128 INFO in 'file_copier' at 	line 60: The new path_list: /home/russel/DEV/py/catdv_file_copier/filename1.mov 
+2013-03-04 15:56:36.128 INFO in 'file_copier' at 	line 60: The new path_list: /home/russel/DEV/py/catdv_file_copier/filename2.mov 
+2013-03-04 15:56:36.128 INFO in 'file_copier' at 	line 88: ---End log at 2013-03-04 15:56:36.128563---
+
+2013-03-04 15:56:36.128 INFO in 'file_copier' at 	line 89: 
+     **************************************************
+2013-03-04 15:58:35.503 INFO in 'file_copier' at 	line 24: 
+
+
+     **************************************************
+2013-03-04 15:58:35.504 INFO in 'file_copier' at 	line 26: 2013-03-04 15:58:35.504204
+2013-03-04 15:58:35.504 INFO in 'file_copier' at 	line 28: ---Start log---
+2013-03-04 15:58:35.504 INFO in 'file_copier' at 	line 73: There are one argument received.
+2013-03-04 15:58:35.504 INFO in 'file_copier' at 	line 75: And it is txt object.
+2013-03-04 15:58:35.504 INFO in 'file_copier' at 	line 43: Path list from txt: ['/home/russel/DEV/py/catdv_file_copier/filename.original.mov', '/home/russel/DEV/py/catdv_file_copier/filename1.original.mov', '/home/russel/DEV/py/catdv_file_copier/filename2.original.mov']
+2013-03-04 15:58:35.504 INFO in 'file_copier' at 	line 60: The new filename created: /home/russel/DEV/py/catdv_file_copier/filename.mov 
+2013-03-04 15:59:28.152 INFO in 'file_copier' at 	line 24: 
+
+
+     **************************************************
+2013-03-04 15:59:28.152 INFO in 'file_copier' at 	line 26: 2013-03-04 15:59:28.152721
+2013-03-04 15:59:28.152 INFO in 'file_copier' at 	line 28: ---Start log---
+2013-03-04 15:59:28.152 INFO in 'file_copier' at 	line 73: There are one argument received.
+2013-03-04 15:59:28.152 INFO in 'file_copier' at 	line 75: And it is txt object.
+2013-03-04 15:59:28.153 INFO in 'file_copier' at 	line 43: Path list from txt: ['/home/russel/DEV/py/catdv_file_copier/input/filename.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename1.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename2.original.mov']
+2013-03-04 15:59:28.153 INFO in 'file_copier' at 	line 60: The new filename created: /home/russel/DEV/py/catdv_file_copier/input/filename.mov 
+2013-03-04 15:59:28.153 INFO in 'file_copier' at 	line 60: The new filename created: /home/russel/DEV/py/catdv_file_copier/input/filename1.mov 
+2013-03-04 15:59:28.153 INFO in 'file_copier' at 	line 60: The new filename created: /home/russel/DEV/py/catdv_file_copier/input/filename2.mov 
+2013-03-04 15:59:28.153 INFO in 'file_copier' at 	line 89: ---End log at 2013-03-04 15:59:28.153634---
+
+2013-03-04 15:59:28.153 INFO in 'file_copier' at 	line 90: 
+     **************************************************
+2013-03-04 16:00:23.727 INFO in 'file_copier' at 	line 24: 
+
+
+     **************************************************
+2013-03-04 16:00:23.727 INFO in 'file_copier' at 	line 26: 2013-03-04 16:00:23.727711
+2013-03-04 16:00:23.727 INFO in 'file_copier' at 	line 28: ---Start log---
+2013-03-04 16:00:23.727 INFO in 'file_copier' at 	line 73: There are one argument received.
+2013-03-04 16:00:23.727 INFO in 'file_copier' at 	line 75: And it is txt object.
+2013-03-04 16:00:23.728 INFO in 'file_copier' at 	line 43: Path list from txt: ['/home/russel/DEV/py/catdv_file_copier/input/filename.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename1.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename2.original.mov']
+2013-03-04 16:01:04.183 INFO in 'file_copier' at 	line 24: 
+
+
+     **************************************************
+2013-03-04 16:01:04.183 INFO in 'file_copier' at 	line 26: 2013-03-04 16:01:04.183443
+2013-03-04 16:01:04.183 INFO in 'file_copier' at 	line 28: ---Start log---
+2013-03-04 16:01:04.183 INFO in 'file_copier' at 	line 74: There are one argument received.
+2013-03-04 16:01:04.183 INFO in 'file_copier' at 	line 76: And it is txt object.
+2013-03-04 16:01:04.183 INFO in 'file_copier' at 	line 43: Path list from txt: ['/home/russel/DEV/py/catdv_file_copier/input/filename.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename1.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename2.original.mov']
+2013-03-04 16:01:04.183 INFO in 'file_copier' at 	line 61: The new filename created: /home/russel/DEV/py/catdv_file_copier/input/filename.mov 
+2013-03-04 16:01:04.184 INFO in 'file_copier' at 	line 61: The new filename created: /home/russel/DEV/py/catdv_file_copier/input/filename1.mov 
+2013-03-04 16:01:04.184 INFO in 'file_copier' at 	line 61: The new filename created: /home/russel/DEV/py/catdv_file_copier/input/filename2.mov 
+2013-03-04 16:01:04.184 INFO in 'file_copier' at 	line 90: ---End log at 2013-03-04 16:01:04.184310---
+
+2013-03-04 16:01:04.184 INFO in 'file_copier' at 	line 91: 
+     **************************************************
+2013-03-04 16:01:31.784 INFO in 'file_copier' at 	line 24: 
+
+
+     **************************************************
+2013-03-04 16:01:31.784 INFO in 'file_copier' at 	line 26: 2013-03-04 16:01:31.784658
+2013-03-04 16:01:31.784 INFO in 'file_copier' at 	line 28: ---Start log---
+2013-03-04 16:01:31.784 INFO in 'file_copier' at 	line 74: There are one argument received.
+2013-03-04 16:01:31.784 INFO in 'file_copier' at 	line 76: And it is txt object.
+2013-03-04 16:01:31.784 INFO in 'file_copier' at 	line 43: Path list from txt: ['/home/russel/DEV/py/catdv_file_copier/input/filename.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename1.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename2.original.mov']
+2013-03-04 16:01:31.785 INFO in 'file_copier' at 	line 61: The new filename created: /home/russel/DEV/py/catdv_file_copier/input/filename.mov 
+2013-03-04 16:01:52.608 INFO in 'file_copier' at 	line 24: 
+
+
+     **************************************************
+2013-03-04 16:01:52.608 INFO in 'file_copier' at 	line 26: 2013-03-04 16:01:52.608446
+2013-03-04 16:01:52.608 INFO in 'file_copier' at 	line 28: ---Start log---
+2013-03-04 16:01:52.608 INFO in 'file_copier' at 	line 74: There are one argument received.
+2013-03-04 16:01:52.608 INFO in 'file_copier' at 	line 76: And it is txt object.
+2013-03-04 16:01:52.608 INFO in 'file_copier' at 	line 43: Path list from txt: ['/home/russel/DEV/py/catdv_file_copier/input/filename.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename1.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename2.original.mov']
+2013-03-04 16:01:52.608 INFO in 'file_copier' at 	line 61: The new filename created: /home/russel/DEV/py/catdv_file_copier/input/filename.mov 
+2013-03-04 16:02:34.727 INFO in 'file_copier' at 	line 24: 
+
+
+     **************************************************
+2013-03-04 16:02:34.728 INFO in 'file_copier' at 	line 26: 2013-03-04 16:02:34.728198
+2013-03-04 16:02:34.728 INFO in 'file_copier' at 	line 28: ---Start log---
+2013-03-04 16:02:34.728 INFO in 'file_copier' at 	line 74: There are one argument received.
+2013-03-04 16:02:34.728 INFO in 'file_copier' at 	line 76: And it is txt object.
+2013-03-04 16:02:34.728 INFO in 'file_copier' at 	line 43: Path list from txt: ['/home/russel/DEV/py/catdv_file_copier/input/filename.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename1.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename2.original.mov']
+2013-03-04 16:02:34.728 INFO in 'file_copier' at 	line 61: The new filename created: /home/russel/DEV/py/catdv_file_copier/input/filename.mov 
+2013-03-04 16:03:14.695 INFO in 'file_copier' at 	line 24: 
+
+
+     **************************************************
+2013-03-04 16:03:14.695 INFO in 'file_copier' at 	line 26: 2013-03-04 16:03:14.695243
+2013-03-04 16:03:14.695 INFO in 'file_copier' at 	line 28: ---Start log---
+2013-03-04 16:03:14.695 INFO in 'file_copier' at 	line 74: There are one argument received.
+2013-03-04 16:03:14.695 INFO in 'file_copier' at 	line 76: And it is txt object.
+2013-03-04 16:03:14.695 INFO in 'file_copier' at 	line 43: Path list from txt: ['/home/russel/DEV/py/catdv_file_copier/input/filename.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename1.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename2.original.mov']
+2013-03-04 16:03:14.695 INFO in 'file_copier' at 	line 61: The new filename created: /home/russel/DEV/py/catdv_file_copier/input/filename.mov 
+2013-03-04 16:04:49.808 INFO in 'file_copier' at 	line 24: 
+
+
+     **************************************************
+2013-03-04 16:04:49.808 INFO in 'file_copier' at 	line 26: 2013-03-04 16:04:49.808857
+2013-03-04 16:04:49.808 INFO in 'file_copier' at 	line 28: ---Start log---
+2013-03-04 16:04:49.809 INFO in 'file_copier' at 	line 74: There are one argument received.
+2013-03-04 16:04:49.809 INFO in 'file_copier' at 	line 76: And it is txt object.
+2013-03-04 16:04:49.809 INFO in 'file_copier' at 	line 43: Path list from txt: ['/home/russel/DEV/py/catdv_file_copier/input/filename.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename1.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename2.original.mov']
+2013-03-04 16:04:49.809 INFO in 'file_copier' at 	line 61: The new filename created: /home/russel/DEV/py/catdv_file_copier/input/filename.mov 
+2013-03-04 16:15:13.447 INFO in 'file_copier' at 	line 24: 
+
+
+     **************************************************
+2013-03-04 16:15:13.447 INFO in 'file_copier' at 	line 26: 2013-03-04 16:15:13.447788
+2013-03-04 16:15:13.447 INFO in 'file_copier' at 	line 28: ---Start log---
+2013-03-04 16:15:13.447 INFO in 'file_copier' at 	line 76: There are one argument received.
+2013-03-04 16:15:13.448 INFO in 'file_copier' at 	line 78: And it is txt object.
+2013-03-04 16:15:13.448 INFO in 'file_copier' at 	line 43: Path list from txt: ['/home/russel/DEV/py/catdv_file_copier/input/filename.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename1.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename2.original.mov']
+2013-03-04 16:15:13.448 INFO in 'file_copier' at 	line 93: ---End log at 2013-03-04 16:15:13.448211---
+
+2013-03-04 16:15:13.448 INFO in 'file_copier' at 	line 94: 
+     **************************************************
+2013-03-04 16:15:48.583 INFO in 'file_copier' at 	line 24: 
+
+
+     **************************************************
+2013-03-04 16:15:48.583 INFO in 'file_copier' at 	line 26: 2013-03-04 16:15:48.583656
+2013-03-04 16:15:48.583 INFO in 'file_copier' at 	line 28: ---Start log---
+2013-03-04 16:15:48.583 INFO in 'file_copier' at 	line 76: There are one argument received.
+2013-03-04 16:15:48.583 INFO in 'file_copier' at 	line 78: And it is txt object.
+2013-03-04 16:15:48.584 INFO in 'file_copier' at 	line 43: Path list from txt: ['/home/russel/DEV/py/catdv_file_copier/input/filename.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename1.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename2.original.mov']
+2013-03-04 16:16:07.783 INFO in 'file_copier' at 	line 24: 
+
+
+     **************************************************
+2013-03-04 16:16:07.783 INFO in 'file_copier' at 	line 26: 2013-03-04 16:16:07.783661
+2013-03-04 16:16:07.783 INFO in 'file_copier' at 	line 28: ---Start log---
+2013-03-04 16:16:07.783 INFO in 'file_copier' at 	line 76: There are one argument received.
+2013-03-04 16:16:07.783 INFO in 'file_copier' at 	line 78: And it is txt object.
+2013-03-04 16:16:07.784 INFO in 'file_copier' at 	line 43: Path list from txt: ['/home/russel/DEV/py/catdv_file_copier/input/filename.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename1.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename2.original.mov']
+2013-03-04 16:16:22.87 INFO in 'file_copier' at 	line 24: 
+
+
+     **************************************************
+2013-03-04 16:16:22.87 INFO in 'file_copier' at 	line 26: 2013-03-04 16:16:22.087461
+2013-03-04 16:16:22.87 INFO in 'file_copier' at 	line 28: ---Start log---
+2013-03-04 16:16:22.87 INFO in 'file_copier' at 	line 76: There are one argument received.
+2013-03-04 16:16:22.87 INFO in 'file_copier' at 	line 78: And it is txt object.
+2013-03-04 16:16:22.87 INFO in 'file_copier' at 	line 43: Path list from txt: ['/home/russel/DEV/py/catdv_file_copier/input/filename.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename1.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename2.original.mov']
+2013-03-04 16:16:22.87 INFO in 'file_copier' at 	line 61: The new filename created: filename.mov 
+2013-03-04 16:16:22.87 INFO in 'file_copier' at 	line 61: The new filename created: filename1.mov 
+2013-03-04 16:16:22.87 INFO in 'file_copier' at 	line 61: The new filename created: filename2.mov 
+2013-03-04 16:16:22.88 INFO in 'file_copier' at 	line 92: ---End log at 2013-03-04 16:16:22.088018---
+
+2013-03-04 16:16:22.88 INFO in 'file_copier' at 	line 93: 
+     **************************************************
+2013-03-04 16:19:03.344 INFO in 'file_copier' at 	line 24: 
+
+
+     **************************************************
+2013-03-04 16:19:03.344 INFO in 'file_copier' at 	line 26: 2013-03-04 16:19:03.344537
+2013-03-04 16:19:03.344 INFO in 'file_copier' at 	line 28: ---Start log---
+2013-03-04 16:19:03.344 INFO in 'file_copier' at 	line 79: There are one argument received.
+2013-03-04 16:19:03.344 INFO in 'file_copier' at 	line 81: And it is txt object.
+2013-03-04 16:19:03.344 INFO in 'file_copier' at 	line 43: Path list from txt: ['/home/russel/DEV/py/catdv_file_copier/input/filename.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename1.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename2.original.mov']
+2013-03-04 16:19:03.344 INFO in 'file_copier' at 	line 61: The new filename created: filename.mov 
+2013-03-04 16:19:03.344 INFO in 'file_copier' at 	line 61: The new filename created: filename1.mov 
+2013-03-04 16:19:03.345 INFO in 'file_copier' at 	line 61: The new filename created: filename2.mov 
+2013-03-04 16:19:03.345 INFO in 'file_copier' at 	line 95: ---End log at 2013-03-04 16:19:03.345089---
+
+2013-03-04 16:19:03.345 INFO in 'file_copier' at 	line 96: 
+     **************************************************
+2013-03-04 16:19:53.912 INFO in 'file_copier' at 	line 24: 
+
+
+     **************************************************
+2013-03-04 16:19:53.912 INFO in 'file_copier' at 	line 26: 2013-03-04 16:19:53.912749
+2013-03-04 16:19:53.912 INFO in 'file_copier' at 	line 28: ---Start log---
+2013-03-04 16:19:53.912 INFO in 'file_copier' at 	line 77: There are one argument received.
+2013-03-04 16:19:53.913 INFO in 'file_copier' at 	line 79: And it is txt object.
+2013-03-04 16:19:53.913 INFO in 'file_copier' at 	line 45: Path list from txt: ['/home/russel/DEV/py/catdv_file_copier/input/filename.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename1.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename2.original.mov']
+2013-03-04 16:19:53.913 INFO in 'file_copier' at 	line 63: The new filename created: filename.mov 
+2013-03-04 16:19:53.913 INFO in 'file_copier' at 	line 63: The new filename created: filename1.mov 
+2013-03-04 16:19:53.913 INFO in 'file_copier' at 	line 63: The new filename created: filename2.mov 
+2013-03-04 16:19:53.913 INFO in 'file_copier' at 	line 93: ---End log at 2013-03-04 16:19:53.913373---
+
+2013-03-04 16:19:53.913 INFO in 'file_copier' at 	line 94: 
+     **************************************************
+2013-03-04 16:23:36.128 INFO in 'file_copier' at 	line 24: 
+
+
+     **************************************************
+2013-03-04 16:23:36.128 INFO in 'file_copier' at 	line 26: 2013-03-04 16:23:36.128311
+2013-03-04 16:23:36.128 INFO in 'file_copier' at 	line 28: ---Start log---
+2013-03-04 16:23:48.831 INFO in 'file_copier' at 	line 25: 
+
+
+     **************************************************
+2013-03-04 16:23:48.831 INFO in 'file_copier' at 	line 27: 2013-03-04 16:23:48.831855
+2013-03-04 16:23:48.831 INFO in 'file_copier' at 	line 29: ---Start log---
+2013-03-04 16:23:48.832 INFO in 'file_copier' at 	line 40: Destination folder exists.
+2013-03-04 16:23:48.832 INFO in 'file_copier' at 	line 88: There are one argument received.
+2013-03-04 16:23:48.832 INFO in 'file_copier' at 	line 90: And it is txt object.
+2013-03-04 16:23:48.832 INFO in 'file_copier' at 	line 55: Path list from txt: ['/home/russel/DEV/py/catdv_file_copier/input/filename.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename1.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename2.original.mov']
+2013-03-04 16:23:48.832 INFO in 'file_copier' at 	line 73: The new filename created: filename.mov 
+2013-03-04 16:23:48.832 INFO in 'file_copier' at 	line 73: The new filename created: filename1.mov 
+2013-03-04 16:23:48.832 INFO in 'file_copier' at 	line 73: The new filename created: filename2.mov 
+2013-03-04 16:23:48.832 INFO in 'file_copier' at 	line 104: ---End log at 2013-03-04 16:23:48.832577---
+
+2013-03-04 16:23:48.832 INFO in 'file_copier' at 	line 105: 
+     **************************************************
+2013-03-04 16:24:38.856 INFO in 'file_copier' at 	line 25: 
+
+
+     **************************************************
+2013-03-04 16:24:38.856 INFO in 'file_copier' at 	line 27: 2013-03-04 16:24:38.856641
+2013-03-04 16:24:38.856 INFO in 'file_copier' at 	line 29: ---Start log---
+2013-03-04 16:24:38.856 INFO in 'file_copier' at 	line 87: There are one argument received.
+2013-03-04 16:24:38.856 INFO in 'file_copier' at 	line 89: And it is txt object.
+2013-03-04 16:24:38.856 INFO in 'file_copier' at 	line 54: Path list from txt: ['/home/russel/DEV/py/catdv_file_copier/input/filename.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename1.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename2.original.mov']
+2013-03-04 16:24:38.857 INFO in 'file_copier' at 	line 72: The new filename created: filename.mov 
+2013-03-04 16:24:38.857 INFO in 'file_copier' at 	line 72: The new filename created: filename1.mov 
+2013-03-04 16:24:38.857 INFO in 'file_copier' at 	line 72: The new filename created: filename2.mov 
+2013-03-04 16:24:38.857 INFO in 'file_copier' at 	line 103: ---End log at 2013-03-04 16:24:38.857265---
+
+2013-03-04 16:24:38.857 INFO in 'file_copier' at 	line 104: 
+     **************************************************
+2013-03-04 16:28:12.633 INFO in 'file_copier' at 	line 25: 
+
+
+     **************************************************
+2013-03-04 16:28:12.633 INFO in 'file_copier' at 	line 27: 2013-03-04 16:28:12.633250
+2013-03-04 16:28:12.633 INFO in 'file_copier' at 	line 29: ---Start log---
+2013-03-04 16:28:12.633 INFO in 'file_copier' at 	line 42: Destination folder exists: /home/russel/DEV/py/catdv_file_copier/output/
+2013-03-04 16:28:12.633 INFO in 'file_copier' at 	line 88: There are one argument received.
+2013-03-04 16:28:12.633 INFO in 'file_copier' at 	line 90: And it is txt object.
+2013-03-04 16:28:12.633 INFO in 'file_copier' at 	line 55: Path list from txt: ['/home/russel/DEV/py/catdv_file_copier/input/filename.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename1.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename2.original.mov']
+2013-03-04 16:28:12.633 INFO in 'file_copier' at 	line 73: The new filename created: filename.mov 
+2013-03-04 16:28:12.633 INFO in 'file_copier' at 	line 73: The new filename created: filename1.mov 
+2013-03-04 16:28:12.633 INFO in 'file_copier' at 	line 73: The new filename created: filename2.mov 
+2013-03-04 16:28:12.633 INFO in 'file_copier' at 	line 104: ---End log at 2013-03-04 16:28:12.633939---
+
+2013-03-04 16:28:12.634 INFO in 'file_copier' at 	line 105: 
+     **************************************************
+2013-03-04 16:30:38.479 INFO in 'file_copier' at 	line 25: 
+
+
+     **************************************************
+2013-03-04 16:30:38.479 INFO in 'file_copier' at 	line 27: 2013-03-04 16:30:38.479782
+2013-03-04 16:30:38.479 INFO in 'file_copier' at 	line 29: ---Start log---
+2013-03-04 16:30:38.479 INFO in 'file_copier' at 	line 90: There are one argument received.
+2013-03-04 16:30:38.480 INFO in 'file_copier' at 	line 92: And it is txt object.
+2013-03-04 16:30:38.480 INFO in 'file_copier' at 	line 55: Path list from txt: ['/home/russel/DEV/py/catdv_file_copier/input/filename.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename1.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename2.original.mov']
+2013-03-04 16:30:38.480 INFO in 'file_copier' at 	line 42: Destination folder exists: /home/russel/DEV/py/catdv_file_copier/output/
+2013-03-04 16:30:38.480 INFO in 'file_copier' at 	line 73: The new filename created: /home/russel/DEV/py/catdv_file_copier/output/filename.mov 
+2013-03-04 16:30:38.480 INFO in 'file_copier' at 	line 42: Destination folder exists: /home/russel/DEV/py/catdv_file_copier/output/
+2013-03-04 16:30:38.480 INFO in 'file_copier' at 	line 73: The new filename created: /home/russel/DEV/py/catdv_file_copier/output/filename1.mov 
+2013-03-04 16:30:38.480 INFO in 'file_copier' at 	line 42: Destination folder exists: /home/russel/DEV/py/catdv_file_copier/output/
+2013-03-04 16:30:38.480 INFO in 'file_copier' at 	line 73: The new filename created: /home/russel/DEV/py/catdv_file_copier/output/filename2.mov 
+2013-03-04 16:30:38.480 INFO in 'file_copier' at 	line 106: ---End log at 2013-03-04 16:30:38.480692---
+
+2013-03-04 16:30:38.480 INFO in 'file_copier' at 	line 107: 
+     **************************************************
+2013-03-04 16:32:50.687 INFO in 'file_copier' at 	line 25: 
+
+
+     **************************************************
+2013-03-04 16:32:50.688 INFO in 'file_copier' at 	line 27: 2013-03-04 16:32:50.688090
+2013-03-04 16:32:50.688 INFO in 'file_copier' at 	line 29: ---Start log---
+2013-03-04 16:32:50.688 INFO in 'file_copier' at 	line 42: Destination folder exists: /home/russel/DEV/py/catdv_file_copier/output/
+2013-03-04 16:32:50.688 INFO in 'file_copier' at 	line 89: There are one argument received.
+2013-03-04 16:32:50.688 INFO in 'file_copier' at 	line 91: And it is txt object.
+2013-03-04 16:32:50.688 INFO in 'file_copier' at 	line 55: Path list from txt: ['/home/russel/DEV/py/catdv_file_copier/input/filename.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename1.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename2.original.mov']
+2013-03-04 16:32:50.688 INFO in 'file_copier' at 	line 72: The new filename created: /home/russel/DEV/py/catdv_file_copier/output/filename.mov 
+2013-03-04 16:32:50.688 INFO in 'file_copier' at 	line 72: The new filename created: /home/russel/DEV/py/catdv_file_copier/output/filename1.mov 
+2013-03-04 16:32:50.688 INFO in 'file_copier' at 	line 72: The new filename created: /home/russel/DEV/py/catdv_file_copier/output/filename2.mov 
+2013-03-04 16:32:50.688 INFO in 'file_copier' at 	line 105: ---End log at 2013-03-04 16:32:50.688711---
+
+2013-03-04 16:32:50.688 INFO in 'file_copier' at 	line 106: 
+     **************************************************
+2013-03-04 16:33:04.207 INFO in 'file_copier' at 	line 25: 
+
+
+     **************************************************
+2013-03-04 16:33:04.208 INFO in 'file_copier' at 	line 27: 2013-03-04 16:33:04.208223
+2013-03-04 16:33:04.208 INFO in 'file_copier' at 	line 29: ---Start log---
+2013-03-04 16:33:04.208 INFO in 'file_copier' at 	line 42: Destination folder exists: /home/russel/DEV/py/catdv_file_copier/output/
+2013-03-04 16:33:04.208 INFO in 'file_copier' at 	line 89: There are one argument received.
+2013-03-04 16:33:04.208 INFO in 'file_copier' at 	line 91: And it is txt object.
+2013-03-04 16:33:04.208 INFO in 'file_copier' at 	line 55: Path list from txt: ['/home/russel/DEV/py/catdv_file_copier/input/filename.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename1.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename2.original.mov']
+2013-03-04 16:33:04.208 INFO in 'file_copier' at 	line 72: The new filename created: /home/russel/DEV/py/catdv_file_copier/output/filename.mov 
+2013-03-04 16:33:46.623 INFO in 'file_copier' at 	line 25: 
+
+
+     **************************************************
+2013-03-04 16:33:46.624 INFO in 'file_copier' at 	line 27: 2013-03-04 16:33:46.624068
+2013-03-04 16:33:46.624 INFO in 'file_copier' at 	line 29: ---Start log---
+2013-03-04 16:33:46.624 INFO in 'file_copier' at 	line 42: Destination folder exists: /home/russel/DEV/py/catdv_file_copier/output/
+2013-03-04 16:33:46.624 INFO in 'file_copier' at 	line 89: There are one argument received.
+2013-03-04 16:33:46.624 INFO in 'file_copier' at 	line 91: And it is txt object.
+2013-03-04 16:33:46.624 INFO in 'file_copier' at 	line 55: Path list from txt: ['/home/russel/DEV/py/catdv_file_copier/input/filename.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename1.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename2.original.mov']
+2013-03-04 16:33:46.624 INFO in 'file_copier' at 	line 72: The new filename created: /home/russel/DEV/py/catdv_file_copier/output/filename.mov 
+2013-03-04 16:33:46.624 INFO in 'file_copier' at 	line 72: The new filename created: /home/russel/DEV/py/catdv_file_copier/output/filename1.mov 
+2013-03-04 16:33:46.624 INFO in 'file_copier' at 	line 72: The new filename created: /home/russel/DEV/py/catdv_file_copier/output/filename2.mov 
+2013-03-04 16:33:46.625 INFO in 'file_copier' at 	line 105: ---End log at 2013-03-04 16:33:46.625037---
+
+2013-03-04 16:33:46.625 INFO in 'file_copier' at 	line 106: 
+     **************************************************
+2013-03-04 16:35:50.128 INFO in 'file_copier' at 	line 25: 
+
+
+     **************************************************
+2013-03-04 16:35:50.128 INFO in 'file_copier' at 	line 27: 2013-03-04 16:35:50.128676
+2013-03-04 16:35:50.128 INFO in 'file_copier' at 	line 29: ---Start log---
+2013-03-04 16:35:50.128 INFO in 'file_copier' at 	line 42: Destination folder exists: /home/russel/DEV/py/catdv_file_copier/output/
+2013-03-04 16:35:50.128 INFO in 'file_copier' at 	line 91: There are one argument received.
+2013-03-04 16:35:50.129 INFO in 'file_copier' at 	line 93: And it is txt object.
+2013-03-04 16:35:50.129 INFO in 'file_copier' at 	line 55: Path list from txt: ['/home/russel/DEV/py/catdv_file_copier/input/filename.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename1.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename2.original.mov']
+2013-03-04 16:35:50.129 INFO in 'file_copier' at 	line 72: The new filename created: /home/russel/DEV/py/catdv_file_copier/output/filename.mov 
+2013-03-04 16:35:50.129 INFO in 'file_copier' at 	line 72: The new filename created: /home/russel/DEV/py/catdv_file_copier/output/filename1.mov 
+2013-03-04 16:35:50.129 INFO in 'file_copier' at 	line 72: The new filename created: /home/russel/DEV/py/catdv_file_copier/output/filename2.mov 
+2013-03-04 16:35:50.129 INFO in 'file_copier' at 	line 107: ---End log at 2013-03-04 16:35:50.129615---
+
+2013-03-04 16:35:50.129 INFO in 'file_copier' at 	line 108: 
+     **************************************************
+2013-03-04 16:36:14.855 INFO in 'file_copier' at 	line 25: 
+
+
+     **************************************************
+2013-03-04 16:36:14.856 INFO in 'file_copier' at 	line 27: 2013-03-04 16:36:14.856123
+2013-03-04 16:36:14.856 INFO in 'file_copier' at 	line 29: ---Start log---
+2013-03-04 16:36:14.856 INFO in 'file_copier' at 	line 42: Destination folder exists and OK: /home/russel/DEV/py/catdv_file_copier/output/
+2013-03-04 16:36:14.856 INFO in 'file_copier' at 	line 91: There are one argument received.
+2013-03-04 16:36:14.856 INFO in 'file_copier' at 	line 93: And it is txt object.
+2013-03-04 16:36:14.856 INFO in 'file_copier' at 	line 55: Path list from txt: ['/home/russel/DEV/py/catdv_file_copier/input/filename.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename1.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename2.original.mov']
+2013-03-04 16:36:14.856 INFO in 'file_copier' at 	line 72: The new filename created: /home/russel/DEV/py/catdv_file_copier/output/filename.mov 
+2013-03-04 16:36:14.856 INFO in 'file_copier' at 	line 72: The new filename created: /home/russel/DEV/py/catdv_file_copier/output/filename1.mov 
+2013-03-04 16:36:14.856 INFO in 'file_copier' at 	line 72: The new filename created: /home/russel/DEV/py/catdv_file_copier/output/filename2.mov 
+2013-03-04 16:36:14.856 INFO in 'file_copier' at 	line 107: ---End log at 2013-03-04 16:36:14.856964---
+
+2013-03-04 16:36:14.857 INFO in 'file_copier' at 	line 108: 
+     **************************************************
+2013-03-04 16:37:46.584 INFO in 'file_copier' at 	line 25: 
+
+
+     **************************************************
+2013-03-04 16:37:46.585 INFO in 'file_copier' at 	line 27: 2013-03-04 16:37:46.585194
+2013-03-04 16:37:46.585 INFO in 'file_copier' at 	line 29: ---Start log---
+2013-03-04 16:37:46.585 INFO in 'file_copier' at 	line 42: Destination folder exists and OK: /home/russel/DEV/py/catdv_file_copier/output/
+2013-03-04 16:37:46.585 INFO in 'file_copier' at 	line 93: There are one argument received.
+2013-03-04 16:37:46.585 INFO in 'file_copier' at 	line 95: And it is txt object.
+2013-03-04 16:37:46.585 INFO in 'file_copier' at 	line 55: Path list from txt: ['/home/russel/DEV/py/catdv_file_copier/input/filename.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename1.original.mov', '/home/russel/DEV/py/catdv_file_copier/input/filename2.original.mov']
+2013-03-04 16:37:46.585 INFO in 'file_copier' at 	line 72: The new filename created: /home/russel/DEV/py/catdv_file_copier/output/filename.mov 
+2013-03-04 16:37:46.585 INFO in 'file_copier' at 	line 78: And copied successfully!
+2013-03-04 16:37:46.585 INFO in 'file_copier' at 	line 72: The new filename created: /home/russel/DEV/py/catdv_file_copier/output/filename1.mov 
+2013-03-04 16:37:46.586 INFO in 'file_copier' at 	line 78: And copied successfully!
+2013-03-04 16:37:46.586 INFO in 'file_copier' at 	line 72: The new filename created: /home/russel/DEV/py/catdv_file_copier/output/filename2.mov 
+2013-03-04 16:37:46.586 INFO in 'file_copier' at 	line 78: And copied successfully!
+2013-03-04 16:37:46.586 INFO in 'file_copier' at 	line 109: ---End log at 2013-03-04 16:37:46.586360---
+
+2013-03-04 16:37:46.586 INFO in 'file_copier' at 	line 110: 
+     **************************************************

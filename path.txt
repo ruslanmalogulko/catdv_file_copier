@@ -1,0 +1,3 @@
+/home/russel/DEV/py/catdv_file_copier/input/filename.original.mov
+/home/russel/DEV/py/catdv_file_copier/input/filename1.original.mov
+/home/russel/DEV/py/catdv_file_copier/input/filename2.original.mov
